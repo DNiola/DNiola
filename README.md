@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @DNiola
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+👋 Hello, I am @DNiola
+- 👀 I am interested in development 
+- 🌱 I'm just learning Java Script
+- 💞️ I am looking for a job in development. 
 - 📫 How to reach me Davide.n2@gmx.de
+
 
 <!---
 DNiola/DNiola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
