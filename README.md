@@ -1,4 +1,4 @@
-👋 Hello, I am @DNiola
+👋 Hello, I am Davide Niola
 - 👀 I am interested in development 
 - 🌱 I'm just learning Angular
 - 💞️ I am looking for a job in development. 
