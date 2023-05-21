@@ -1,6 +1,6 @@
 👋 Hello, I am @DNiola
 - 👀 I am interested in development 
-- 🌱 I'm just learning Java Script
+- 🌱 I'm just learning Angular
 - 💞️ I am looking for a job in development. 
 - 📫 How to reach me Davide.n2@gmx.de
 
