@@ -7,7 +7,7 @@ I’m constantly looking to expand my knowledge and take on exciting projects.
 ## 🌱 Skills
 - **Frontend Technologies:** HTML5, CSS3, JavaScript (ES6+), TypeScript, Angular, Ionic
 - **Frameworks/Libraries:** Bootstrap, TailwindCSS
-- **Tools & Platforms:** Git, BitBucket, Sourcetree, Firebase, REST APIs
+- **Tools & Platforms:** Git, Bitbucket, Sourcetree, Firebase, REST APIs
 
 ## 🚀 Projects
 Here are some of the projects I've worked on:
